@@ -1,10 +1,10 @@
 # License Plate Recognition
 This project deals with recognizing the license plate number of a vehicle using machine learning.
 
-##Implementation
+## Implementation
 The characters on the license plate are extracted using OpenCV in Python. These extracted characters are fed to a model for recognizing them, which is based on Convolutional Neural Network (CNN).
 
-##Dataset
+## Dataset
 The model has been trained on NIST Special Database 19
 
 ## Steps for execution
